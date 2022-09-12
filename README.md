@@ -30,7 +30,7 @@
   <img align="center" alt="Miguel-c" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Miguel-cpp" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Miguel-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1018938614211674146/1018938724345712722/PERFIL.jpg?width=586&height=586">
+  <img align="right" alt="Miguel-pic" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1018938614211674146/1018938724345712722/PERFIL.jpg?width=586&height=586">
 </div>
 
 ##
