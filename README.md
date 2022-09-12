@@ -8,6 +8,7 @@
 - 📫 How to reach me:
 - You can email me: migmsr@hotmail.com
 - Or contact me via discord: discordapp.com/users/studiedmike#7717
+- ⚡ Fun fact: I have a random gaming YouTube channel. Linked below.
 
 ##
 
