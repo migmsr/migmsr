@@ -8,3 +8,9 @@
 - 📫 How to reach me:
 - You can email me: migmsr@hotmail.com
 - Or contact me via discord: discordapp.com/users/studiedmike#7717
+
+<div align="center">
+  <a href="https://github.com/migmsr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migmsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migmsr&layout=compact&langs_count=7&theme=dark"/>
+</div>
