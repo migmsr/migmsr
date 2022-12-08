@@ -1,6 +1,6 @@
 ### Hi! I'm Miguel! 👋
 
-- 🔭 I’m currently unemployed and working on personal projects only.
+- 🔭 I’m currently working as Automation Analyst at Mota Engenharia
 - 🌱 I’m currently learning RPA, HTML, CSS and JavaScript.
 - 👯 I’m looking to collaborate on any project, especially those looking to make the world a better place.
 - 🤔 I’m looking for help with finding a job and important projects to work with.
